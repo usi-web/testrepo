@@ -1,4 +1,4 @@
 12345;
 push;
-("another line - from master user1");
+("line - from master user2");
 ("good evening - from master user1");

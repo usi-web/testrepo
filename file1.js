@@ -1,3 +1,4 @@
 12345;
 push;
-console.log("1");
+("line - from master user2");
+("good evening - from master user1");
